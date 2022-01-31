@@ -6,6 +6,8 @@ Format
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
+## [Harshit](https://github.com/harshit4021)
+
 ## [Sruti Chatterjee](https://github.com/sruti2024)
 
 ## [Chiraag Kakar](https://github.com/chiraag-kakar/)
@@ -121,5 +123,4 @@ Format
 ## [Parteek](https://github.com/Pdahiya5033)
 
 ## [Kumar Sahil](https://github.com/sahilkr9)
-
 
