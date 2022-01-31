@@ -6,6 +6,8 @@ Format
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
+## [Harshit](https://github.com/harshit4021)
+
 ## [Sruti Chatterjee](https://github.com/sruti2024)
 
 ## [Chiraag Kakar](https://github.com/chiraag-kakar/)
@@ -107,7 +109,7 @@ Format
 ## [Shubham Rathod](https://github.com/RATHOD-SHUBHAM)
 
 ## [Albert Debbarma](https://github.com/Albert-Debbarma)
-## [harshit] (https://github.com/harshit4021)
+
 ## [Tejaswi](https://github.com/Tess-Vanta)
 
 ## [Priyank Sinha](https://github.com/PranK14)
@@ -119,5 +121,3 @@ Format
 ## [KishanShinde](https://github.com/kishan2002)
 
 ## [Parteek](https://github.com/Pdahiya5033)
-
-
